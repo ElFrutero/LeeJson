@@ -41,6 +41,13 @@
             "titulo": "Never Call Me",
             "autor": "Jhené Aiko feat. Kurupt",
             "genero": "hip-hop"
+        },
+        {
+            "id": "7",
+            "youtube": "TnKyvgoO_VI",
+            "titulo": "1 mas 1 son 7",
+            "autor": "Fran Perea",
+            "genero": "español"
         }
     ]
 }
