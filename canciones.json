@@ -1,0 +1,32 @@
+{
+    "canciones":[
+        {
+            "id": "1",
+            "youtube": "M3mJkSqZbX4",
+            "titulo": "The Middle",
+            "autor": "Zedd, Maren Morris, Grey",
+            "genero": "mainstream"
+        },   
+        {
+            "id": "2",
+            "youtube": "4uTNVumfm84",
+            "titulo": "Wait",
+            "autor": "Maroon 5",
+            "genero": "mainstream"
+        },
+        {
+            "id": "3",
+            "youtube": "_qQsPw4CqUI",
+            "titulo": "Everyday",
+            "autor": "Marshmello & Logic",
+            "genero": "hip-hop"
+        },
+        {
+            "id": "4",
+            "youtube": "k2qgadSvNyU",
+            "titulo": "New Rules",
+            "autor": "Dua Lipa",
+            "genero": "Dance"
+        }
+    ]
+}
